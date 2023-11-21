@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "582980066441",
+    "project_id": "social-media-login-b9c1b",
+    "storage_bucket": "social-media-login-b9c1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582980066441:android:0dead48cd4045f525efa58",
+        "android_client_info": {
+          "package_name": "com.example.social_media_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaXRocDs5GncQvymydYStx9tOdYVjMCAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
